@@ -67,10 +67,6 @@ Click the image below for a video demonstration of the tests passing:
 
 [![Team Profile Test Passing Demo](./assets/images/testpassing.jpg?raw=true)](https://drive.google.com/file/d/1DHceN13QJAVSZItC_zt4zGBks5MRRe2F/view?usp=sharing)
 
-## Deployed application link
-
-https://github.com/MohEssmat/Team-Profile-Generator.git <br />
-
 ## Languages
 
 JavaScript, Bootstrap, Google Fonts, Material Icons, HTML, Node, Inquirer, Jest <br />
@@ -112,5 +108,3 @@ If you have any questions about the project, contact me at:
 Mohamedessmat80@gmail.com <br />
 Check out the rest of my work at:
 [MohEssmat](https://github.com/MohEssmat) <br />
-
-# Team-Profile-Generator
